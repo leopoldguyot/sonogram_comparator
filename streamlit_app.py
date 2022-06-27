@@ -14,15 +14,18 @@ def graph_spectrogram(wav_file):
     
     return plt.gcf()
 
-
-state = False
 st.markdown('''
     ## A simple sonograph maker made in python
     using the streamlit API
     ''')
 
-uploaded_file = st.file_uploader("choose a .wav file", type = ".wav")
-example = st.checkbox("use an example file (willow tit)")
+with st.sidebar:
+    st.write(''' 
+    # Some settings :
+    ''')
+    uploaded_file = st.file_uploader("",type = ".wav")
+    example = st.checkbox("use an example file (willow tit)")
+
 
 if example : 
     st.audio("willow_tit.wav", format = 'audio/wav')
