@@ -1,0 +1,23 @@
+association = {
+    "Black-headed gull": "reference_files/black-headed_gull.wav",
+    "Common chiffchaff 1": "reference_files/common_chiffchaff.wav",
+    "Common chiffchaff 2": "reference_files/common_chiffchaff_alternative.wav",
+    "Common chiffchaff 3": "reference_files/common_chiffchaff_alternative_2.wav",
+    "Common_starling": "reference_files/common_starling.wav",
+    "Common wood pigeon": "reference_files/common_wood_pigeon.wav",
+    "Eurasian blue tit": "reference_files/eurasian_blue_tit.wav",
+    "Eurasian collared dove": "reference_files/eurasian_collared_dove.wav",
+    "Eurasian wren 1": "reference_files/eurasian_wren.wav",
+    "Eurasian wren 2": "reference_files/eurasian_wren_alternative.wav",
+    "European green woodpecker": "reference_files/european_green_woodpecker.wav",
+    "Great spotted woodpecker": "reference_files/great_spotted_woodpecker.wav",
+    "Great spotted woodpecker calls": "reference_files/great_spotted_woodpecker_calls.wav",
+    "great tit 1": "reference_files/great_tit.wav",
+    "great tit 2": "reference_files/great_tit_alternative.wav",
+    "Rose ringed parakeet": "reference_files/rose_ringed_parakeet.wav",
+    "Short-toed treecreeper 1": "reference_files/short-toed_treecreeper.wav",
+    "Short-toed treecreeper 2": "reference_files/short-toed_treecreeper_alternative.wav",
+    "White wagtail 1": "reference_files/white_wagtail.wav",
+    "White wagtail 2": "reference_files/white_wagtail_alternative.wav",
+    "Willow tit": "reference_files/willow_tit.wav"
+}

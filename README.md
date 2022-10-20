@@ -6,6 +6,5 @@ You also have the possibility to download the .png file of the sonograms.
 
 # Link 
 
-https://leopoldguyot-sonograph-python-streamlit-app-zaec7x.streamlitapp.com/
-
+https://sonogramcomparator.streamlitapp.com/
 
